@@ -1,6 +1,6 @@
 # 📝 652. Find Duplicate Subtrees (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/find-duplicate-subtrees)
+🔗 [Problem Link](https://leetcode.com/problems/find-duplicate-subtrees/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Hash Table, Tree, Depth-First Search, Binary Tree
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 14 ms
+- **Memory:** 58.6 MB
 
 ---
 
