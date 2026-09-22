@@ -1,6 +1,6 @@
 # 📝 654. Maximum Binary Tree (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/maximum-binary-tree)
+🔗 [Problem Link](https://leetcode.com/problems/maximum-binary-tree/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 Array, Divide and Conquer, Stack, Tree, Monotonic Stack, Binary Tree, Cartesian Tree
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 2 ms
+- **Memory:** 46.2 MB
 
 ---
 
